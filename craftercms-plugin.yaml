@@ -33,15 +33,16 @@ plugin:
       email: russdanner@craftersoftware.com
       url: https://github.com/russdanner
   build:
-    id: cafebabe1e6a24b5e0481d6ba87901d0b02716c9
-    date: 2022-01-07T00:00:00Z
+    id: cafebabe1e6a24b5e0481d6ba87901d0b02716c1
+    date: 2024-02-28T00:00:00Z
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT
   crafterCmsVersions:
     - major: 4
-      minor: 0
-      patch: 0
+      minor: 2
+    - major: 4
+      minor: 3
   crafterCmsEditions:
     - community
     - enterprise
