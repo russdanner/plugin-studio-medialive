@@ -226,7 +226,7 @@ const ReactComponent = () => {
           }}
         >
           <svg
-            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-vubbuv"
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-q7mezt"
             focusable="false"
             aria-hidden="true"
             viewBox="0 0 24 24"
@@ -241,7 +241,7 @@ const ReactComponent = () => {
           </span>
         </div>
         <svg
-          className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-vubbuv"
+          className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-q7mezt"
           focusable="false"
           aria-hidden="true"
           viewBox="0 0 24 24"
